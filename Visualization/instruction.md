@@ -15,4 +15,14 @@ python main.py --data_path /media/reid/ext_disk1/blue_alage/dushu/orginial_data/
 ```
 
 ## Output
-![output](./output.png)
+
+![visualization](./output1.png) \
+The first column is the value of lon, the second is lat and the third is the value of pc
+\
+\
+\
+![visualization](./output.png)
+plot all filtered points 
+
+
+
