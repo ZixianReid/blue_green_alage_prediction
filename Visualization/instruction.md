@@ -21,7 +21,7 @@ The first column is the value of lon, the second is lat and the third is the val
 \
 \
 \
-![visualization](./output.png)
+![visualization](./output.png) \
 plot all filtered points 
 
 
